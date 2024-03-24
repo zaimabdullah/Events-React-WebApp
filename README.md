@@ -8,7 +8,6 @@ Welcome to React Events WebApp! This is Events WebApp project with [React](https
 - [Web Pages](#web-pages)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Contact](#contact)
 
 ## Introduction
 The project is a React-based Events web application, focusing on features like user authentication, route protection, and token management. It includes functionalities such as authentication with query parameters, automatic logout, and UI updates based on authentication status. Additionally, it handles data fetching, validation, and error handling for smooth user experience.
