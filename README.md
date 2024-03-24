@@ -23,7 +23,7 @@ The project is a React-based Events web application, focusing on features like u
 
 |  Login Account |  Register Account                         |
 |-----------------------------------------|-----------------------------------------|
-| ![auth](https://github.com/zaimabdullah/Events-React-WebApp/assets/36534973/12074e5f-c13a-4a23-a0d5-0f761cb6ac7d) |  ![register](https://github.com/zaimabdullah/Events-React-WebApp/assets/36534973/83c2bdf4-a3ee-43b0-bc93-d977a34376eb)|
+| ![auth](https://github.com/zaimabdullah/Events-React-WebApp/assets/36534973/12074e5f-c13a-4a23-a0d5-0f761cb6ac7d) | ![register](https://github.com/zaimabdullah/Events-React-WebApp/assets/36534973/83c2bdf4-a3ee-43b0-bc93-d977a34376eb) |
 
 |  Newsletter                                                           |
 |----------------------------------------------------------------------------------|
@@ -32,7 +32,7 @@ The project is a React-based Events web application, focusing on features like u
 
 |  Create new event                              |
 |-----------------------------------------|
-|  ![create event](https://github.com/zaimabdullah/Events-React-WebApp/assets/36534973/db07d749-9cca-4dff-95a3-b82e2516c14d) |
+| ![create event](https://github.com/zaimabdullah/Events-React-WebApp/assets/36534973/db07d749-9cca-4dff-95a3-b82e2516c14d) |
 
 |  Event Details                              |
 |-----------------------------------------|
